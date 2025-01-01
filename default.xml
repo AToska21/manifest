@@ -7,4 +7,5 @@
     <project name="PretendoNetwork/account" path="projects/account" />
     <project name="PretendoNetwork/friends" path="projects/friends" revision="nex-go-rewrite" />
     <project name="PretendoNetwork/Inkay" path="patches/Inkay" revision="main" />
+    <project name="AToska21/orchestration" path="orchestration" revision="main" />
 </manifest>
